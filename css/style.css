@@ -2,3 +2,12 @@ ul{
     background-color: lightblue;
     list-style-type: none;
 }
+
+#data{
+    background-color: lightcoral;
+    height: 100vh;
+}
+
+.my-wrap{
+    border: 2px solid black;
+}
